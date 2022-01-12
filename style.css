@@ -1,0 +1,14 @@
+.abc{
+    border: 1px solid black;
+    width: 738px;
+    height: 422px;
+    border-collapse: collapse;
+    border-width: 3px;
+}
+.ab{
+    border: 1px solid black;
+    border-width: 2px;
+}
+td{
+    text-align: center;
+}
